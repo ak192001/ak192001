@@ -23,9 +23,9 @@
 
 
 
-[![Twitter: Akashdcrm](https://img.shields.io/twitter/follow/Akash_001122?style=social)](https://twitter.com/Akash_001122)
-[![Linkedin: Akashdcrm](https://img.shields.io/badge/-rahuldcrm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-mukherjee/)](https://www.linkedin.com/in/akash-mukherjee-57b270206/)
-[![GitHub Noxx-7](https://img.shields.io/github/followers/ak192001?label=follow&style=social)](https://github.com/ak192001)
+[![Twitter: Akash_001122](https://img.shields.io/twitter/follow/Akash_001122?style=social)](https://twitter.com/Akash_001122)
+[![Linkedin: akash-mukherjee](https://img.shields.io/badge/-rahuldcrm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-mukherjee/)](https://www.linkedin.com/in/akash-mukherjee-57b270206/)
+[![GitHub ak192001](https://img.shields.io/github/followers/ak192001?label=follow&style=social)](https://github.com/ak192001)
 
 
 **Languages and Tools:**  
